@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\FIAP_EAD\FIAP_EAD\bin\Debug\net6.0\FIAP_EAD.exe
+C:\Users\User\source\repos\FIAP_EAD\FIAP_EAD\bin\Debug\net6.0\FIAP_EAD.deps.json
+C:\Users\User\source\repos\FIAP_EAD\FIAP_EAD\bin\Debug\net6.0\FIAP_EAD.runtimeconfig.json
+C:\Users\User\source\repos\FIAP_EAD\FIAP_EAD\bin\Debug\net6.0\FIAP_EAD.dll
+C:\Users\User\source\repos\FIAP_EAD\FIAP_EAD\bin\Debug\net6.0\FIAP_EAD.pdb
+C:\Users\User\source\repos\FIAP_EAD\FIAP_EAD\obj\Debug\net6.0\FIAP_EAD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FIAP_EAD\FIAP_EAD\obj\Debug\net6.0\FIAP_EAD.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FIAP_EAD\FIAP_EAD\obj\Debug\net6.0\FIAP_EAD.AssemblyInfo.cs
+C:\Users\User\source\repos\FIAP_EAD\FIAP_EAD\obj\Debug\net6.0\FIAP_EAD.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FIAP_EAD\FIAP_EAD\obj\Debug\net6.0\FIAP_EAD.dll
+C:\Users\User\source\repos\FIAP_EAD\FIAP_EAD\obj\Debug\net6.0\refint\FIAP_EAD.dll
+C:\Users\User\source\repos\FIAP_EAD\FIAP_EAD\obj\Debug\net6.0\FIAP_EAD.pdb
+C:\Users\User\source\repos\FIAP_EAD\FIAP_EAD\obj\Debug\net6.0\FIAP_EAD.genruntimeconfig.cache
+C:\Users\User\source\repos\FIAP_EAD\FIAP_EAD\obj\Debug\net6.0\ref\FIAP_EAD.dll
